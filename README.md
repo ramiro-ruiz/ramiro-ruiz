@@ -1,4 +1,13 @@
-### Hi there 👋
+# H O L A! 👋
+
+### I’m a designer & digital builder from Monterrey, Mexico. 
+
+Here's my [website](https://ramiroruiz.com) that while is on the process of being redesigned and with outdated work. You can still find my recent [thoughts](https://ramiroruiz.com/notes), [photos](https://ramiroruiz.com/photos), [replies](https://ramiroruiz.com/replies), [likes](https://ramiroruiz.com/likes) and [links](https://ramiroruiz.com/links) I find interesting.
+
+#### To help to fill this space a little
+- 🌱 I’m currently learning vanilla javascript, vue and 3d.
+- 💬 Ask me about design, CSS, design systems, martial arts.
+- 📫 You ca reach me on twitter [@ramiroruiz](https://twitter.com/ramiroruiz) or my [site](https://ramiroruiz.com)
 
 <!--
 **ramiro-ruiz/ramiro-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
