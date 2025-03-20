@@ -1,25 +1,10 @@
 # H O L A! 👋
 
-### I’m a designer & digital builder from Monterrey, Mexico. 
+### I’m Ramiro, a product designer that likes to code from Monterrey, Mexico. 
 
-Here's my [website](https://ramiroruiz.com) that while is on the process of being redesigned and with outdated work. You can still find my recent [thoughts](https://ramiroruiz.com/notes), [photos](https://ramiroruiz.com/photos), [replies](https://ramiroruiz.com/replies), [likes](https://ramiroruiz.com/likes) and [links](https://ramiroruiz.com/links) I find interesting.
+I spend my time crafting interfaces, thinking about design systems, and tinkering with front-end code. While my [website](https://ramiroruiz.com) is currently in the process of being redesigned (with some outdated work lingering around), you can still find my some of my [thoughts](https://ramiroruiz.com/notes), [photos](https://ramiroruiz.com/photos), [replies](https://ramiroruiz.com/replies), [likes](https://ramiroruiz.com/likes) and [links](https://ramiroruiz.com/links) I find interesting there.
 
-#### To help to fill this space a little
-- 🌱 I’m currently learning vanilla javascript, vue and 3d.
+#### 💡 What I’m up to
+- 🌱 Exploring new ways to bridge design and code.
 - 💬 Ask me about design, CSS, design systems, martial arts.
 - 📫 You ca reach me on twitter [@ramiroruiz](https://twitter.com/ramiroruiz) or my [site](https://ramiroruiz.com)
-
-<!--
-**ramiro-ruiz/ramiro-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
